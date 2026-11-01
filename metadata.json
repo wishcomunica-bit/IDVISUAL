@@ -1,0 +1,6 @@
+{
+  "name": "WISH Agency | Apresentação Digital de Identidade Visual",
+  "description": "Apresentação digital interativa das identidades visuais REGALIA e Leili Bueno Joyería pela agência WISH com transições cinematográficas e revelação progressiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
